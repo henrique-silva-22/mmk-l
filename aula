@@ -1,0 +1,13 @@
+início:
+
+  1-git init(inicial do progeto do git hub)
+  2-git add .
+  tudo no terminal
+  3-git commit -am"inicio do projeto"
+4-criar um repositório no git hub
+5-conectar o seu projeto com o git hub
+
+Rotina:
+1-   git add .
+2-git commit -am"atualização feita"
+3-git push origin main
